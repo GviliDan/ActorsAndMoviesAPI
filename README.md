@@ -1,4 +1,6 @@
+<div align="center">
 # ActorsAndMoviesAPI Server 🎬🎥
+</div>
 
 **Overview**
 
