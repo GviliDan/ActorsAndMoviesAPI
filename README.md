@@ -1,5 +1,7 @@
 <div align="center">
-# ActorsAndMoviesAPI Server 🎬🎥
+
+# ✂️ ActorsAndMoviesAPI Server 🎬🎥
+
 </div>
 
 **Overview**
